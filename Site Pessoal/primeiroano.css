@@ -1,0 +1,154 @@
+body {
+  background-image: url(./imagensport/estrellas.avif);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+  margin: 30px;
+}
+
+.wiwiwi {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  gap: 100px;
+  width: 2000px;
+}
+
+h1 {
+   color: rgb(6, 26, 177);
+  text-align: center;
+  font-size: 100px;
+  text-shadow: 2px 2px 5px rgb(56, 86, 255);
+  font-family: "Brush Script MT", cursive;
+
+}
+
+h2 {
+  color: rgb(7, 31, 165);
+  text-align: center;
+  font-size: 50px; 
+  text-shadow: 2px 2px 5px rgb(63, 66, 235);
+  font-family: "Brush Script MT", cursive;
+}
+
+h3 {
+color: rgb(51, 90, 173);
+  text-align: center;
+  font-size: 15px;
+  font-family: monospace;
+  margin-top: -15px;
+}
+
+h4 {
+color: rgb(51, 90, 173);
+  text-align: center;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+h5 {
+color: rgb(51, 90, 173);
+  text-align: center;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.uno {
+  width: 600px;
+  height: 600px;
+  background-color: #c9c2c2;
+  padding: 20px;
+  border: 10px solid #203c4d;
+  border-style: dashed;
+  margin-left: 600px;
+  margin-top: -50px;
+}
+
+.dos {
+     background-color: #203c4d;
+  padding: -10px;
+  border: 1px solid #324599;
+  border-style: dashed;
+  margin-top: -10px;
+
+}
+
+.tres {
+    width: 300px;
+  height: 100px;
+  background-color: #c9c2c2;
+  padding: 20px;
+  border: 5px solid #203c4d;
+  border-style: dashed;
+  height: 430px;
+}
+
+.cuatro {
+    width: 200px;
+  background-color: #c9c2c2;
+  padding: 20px;
+  border: 5px solid #203c4d;
+  border-style: dashed;
+  height: 250px;
+  position: absolute;
+  margin-left: 353px;
+  margin-top: -480px;
+}
+
+#ok {
+  width: 100px;
+  position: absolute;
+  margin-left: 995px;
+  margin-top: -810px;
+}
+
+#osi {
+   width: 120px;
+  position: absolute;
+  margin-left: 570px;
+  margin-top: -700px;
+}
+
+#l {
+   width: 200px;
+  position: absolute;
+  margin-left: 1010px;
+  margin-top: -180px;
+}
+
+#zapatos {
+ width: 100px;
+  position: absolute;
+  margin-left: 650px;
+  margin-top: -470px;
+}
+
+#pulpo {
+width: 130px;
+  position: absolute;
+  margin-left: 770px;
+  margin-top: -470px;
+}
+
+#potasio {
+ width: 80px;
+  position: absolute;
+  margin-left: 650px;
+  margin-top: -320px;
+}
+
+#Shino {
+ width: 100px;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -320px;
+}
+
+#yo {
+width: 90px;
+  position: absolute;
+  margin-left: 650px;
+  margin-top: -170px;
+}
