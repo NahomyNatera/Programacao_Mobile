@@ -1,4 +1,4 @@
-[Vídeo Explicativo APPScholar](https://drive.google.com/file/d/1SemqwAITzGlHdtHRuKeXnsqZYAYWJYx-/view?usp=sharing)
+
 
 Esse é o link para o vídeo explicativo, sobre todo o codigo de uma forma resumida.
 
